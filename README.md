@@ -6,7 +6,7 @@ For Kernel 4.15.x ~ 5.8.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 `sudo apt-get install build-essential git dkms linux-headers-$(uname -r)`
 
-`git clone https://github.com/kelebek333/rtl8188fu`
+`git clone https://github.com/sirAlireza/rtl8188fu`
 
 `sudo dkms add ./rtl8188fu`
 
